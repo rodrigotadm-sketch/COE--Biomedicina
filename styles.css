@@ -1,0 +1,31 @@
+
+:root{
+ --green:#176b3a;--green2:#2f8f55;--green3:#e9f5ed;--green4:#d6ebdc;
+ --ink:#17251d;--muted:#637168;--line:#d9e5dd;--bg:#f5f8f6;--white:#fff;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);font:15px/1.5 Arial,sans-serif;color:var(--ink)}
+#coe-app{max-width:1160px;margin:22px auto;padding:0 16px 32px}
+.hero{background:linear-gradient(135deg,var(--green),var(--green2));color:#fff;padding:30px;border-radius:18px}
+.eyebrow{font-size:11px;letter-spacing:.14em;font-weight:800;opacity:.84}
+.hero h1{margin:6px 0 7px;font-size:34px}.hero p{margin:0;opacity:.92}
+.section{margin:24px 0}.section h2{margin:0 0 12px;font-size:22px;color:var(--green)}
+.panel,.card,.attrib,.responsibility,.link-card{background:#fff;border:1px solid var(--line);border-radius:13px}
+.panel{padding:17px}.member-grid,.attrib-grid,.responsibility-grid,.links-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.card,.attrib,.responsibility,.link-card{padding:15px}
+.card.coordination{border-top:4px solid var(--green)}
+.badges{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.badge{font-size:11px;font-weight:700;padding:3px 7px;border-radius:20px;background:var(--green3);color:var(--green)}
+.badge.status{background:#eff6e9;color:#526d38}
+.card h3,.responsibility h3,.attrib h3{margin:0 0 5px;font-size:17px}
+.dept{font-size:12px;color:var(--muted)}.course-role{font-size:12px;color:var(--green);font-weight:700;margin-top:4px}
+.actions{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.actions a,.link-card a{display:inline-block;background:var(--green3);color:var(--green);padding:6px 8px;border-radius:7px;font-size:12px;font-weight:700;text-decoration:none}
+.actions a:hover,.link-card a:hover{text-decoration:underline}
+.attrib h3,.responsibility h3{color:var(--green)}
+.attrib p,.responsibility p,.link-card p{margin:0;color:#34463a}
+.responsibility .who{margin-top:9px;font-weight:700}
+.links-grid .link-card{display:flex;flex-direction:column;gap:8px}
+.contact{display:flex;gap:10px;flex-wrap:wrap}.contact a{color:var(--green);font-weight:700;text-decoration:none}
+.empty{color:var(--muted);font-size:12px;font-style:italic}
+@media(max-width:760px){.member-grid,.attrib-grid,.responsibility-grid,.links-grid{grid-template-columns:1fr}.hero h1{font-size:28px}}

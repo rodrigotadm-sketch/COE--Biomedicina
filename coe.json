@@ -1,0 +1,119 @@
+{
+  "title": "COMISSÃO ORIENTADORA DE ESTÁGIOS — COE",
+  "course": "Curso de Biomedicina — UFPR",
+  "intro": "A Comissão Orientadora de Estágios (COE) organiza e acompanha as atividades de estágio do Curso de Biomedicina, atuando na orientação acadêmica, análise documental, supervisão dos procedimentos e articulação entre estudantes, campos de estágio e a Universidade.",
+  "attributions": [
+    {
+      "title": "Estágios",
+      "text": "Normatizar, supervisionar e fomentar oportunidades de estágio, atuando como ponte entre os estudantes e o mercado de trabalho."
+    },
+    {
+      "title": "Atividades acadêmicas",
+      "text": "Analisar e validar atividades formativas e de extensão realizadas pelos estudantes ao longo do curso."
+    }
+  ],
+  "members": [
+    {
+      "name": "Aline Borsato Hauser",
+      "role": "Membro da COE",
+      "department": "Análises Clínicas",
+      "course_role": "",
+      "email": "",
+      "lattes": "http://lattes.cnpq.br/7834327258340015",
+      "status": "Atual"
+    },
+    {
+      "name": "Camila Marcon",
+      "role": "Membro da COE",
+      "department": "Patologia Básica",
+      "course_role": "Coordenadora do Curso de Biomedicina",
+      "email": "marconi@ufpr.br",
+      "lattes": "http://lattes.cnpq.br/2439951126870898",
+      "status": "Atual"
+    },
+    {
+      "name": "Djanira Aparecida da Luz Veronez",
+      "role": "Membro da COE",
+      "department": "Anatomia",
+      "course_role": "",
+      "email": "veronezdal@ufpr.br",
+      "lattes": "http://lattes.cnpq.br/9947917203115255",
+      "status": "Atual"
+    },
+    {
+      "name": "Jaqueline Carvalho de Oliveira",
+      "role": "Membro da COE",
+      "department": "Genética",
+      "course_role": "Vice-Coordenadora do Curso de Biomedicina",
+      "email": "jaqueline.carvalho@ufpr.br",
+      "lattes": "http://lattes.cnpq.br/8730828720954911",
+      "status": "Atual"
+    },
+    {
+      "name": "Tárcio Teodoro Braga",
+      "role": "Membro da COE",
+      "department": "Patologia Básica",
+      "course_role": "",
+      "email": "tarcio.braga@ufpr.br",
+      "lattes": "",
+      "status": "Atual"
+    }
+  ],
+  "responsibilities": [
+    {
+      "area": "Estágio em Análises Clínicas",
+      "responsible": "Aline Borsato Hauser",
+      "department": "Análises Clínicas",
+      "description": "Orientação sobre áreas de interesse, campos de estágio e procedimentos específicos de Análises Clínicas."
+    },
+    {
+      "area": "Estágio Externo — exceto Análises Clínicas",
+      "responsible": "Djanira Aparecida da Luz Veronez",
+      "department": "Anatomia",
+      "description": "Orientação para estágios realizados em instituições ou empresas externas à UFPR, exceto na área de Análises Clínicas."
+    },
+    {
+      "area": "Estágio Interno — âmbito da UFPR",
+      "responsible": "Jaqueline Carvalho de Oliveira",
+      "department": "Genética",
+      "description": "Orientação para estágios realizados em unidades, laboratórios e demais estruturas internas da UFPR."
+    }
+  ],
+  "quick_links": [
+    {
+      "label": "Orientações de Estágio — Biomedicina",
+      "url": "https://bio.ufpr.br/biomedicina/estagios/",
+      "description": "Procedimentos para estágio obrigatório e não obrigatório no Curso de Biomedicina."
+    },
+    {
+      "label": "Comissão Orientadora de Estágios — COE",
+      "url": "https://bio.ufpr.br/biomedicina/comissao-orientadora-de-estagios/",
+      "description": "Página institucional da Comissão Orientadora de Estágios."
+    },
+    {
+      "label": "COAPPE — Unidade de Estágios",
+      "url": "https://prograp.ufpr.br/coafe/apresentacao-estagios/",
+      "description": "Informações institucionais da UFPR sobre cadastro, homologação e acompanhamento de estágios."
+    },
+    {
+      "label": "Formulários de Estágio",
+      "url": "https://prograp.ufpr.br/coafe/ue/formularios/",
+      "description": "Formulários e documentação oficial da Unidade de Estágios."
+    },
+    {
+      "label": "Legislação de Estágios",
+      "url": "https://prograp.ufpr.br/coafe/ue/legislacao/",
+      "description": "Lei Federal, resoluções e instruções normativas aplicáveis aos estágios."
+    },
+    {
+      "label": "Perguntas Frequentes — Estágios",
+      "url": "https://prograp.ufpr.br/coafe/ue/perguntas-frequentes/",
+      "description": "Dúvidas frequentes sobre estágios na UFPR."
+    }
+  ],
+  "contact": {
+    "email": "biomedicina@ufpr.br",
+    "phone": "(41) 3361-1744",
+    "address": "Centro Politécnico — Setor de Ciências Biológicas — UFPR, Jardim das Américas, Curitiba — PR"
+  }
+}
